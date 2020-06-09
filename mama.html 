@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>JUDITH LOEB</title>
+    <link rel="stylesheet" type="text/css" href="untitled.css">
+
+
+  </head>
+
+  <body>
+
+    <div id="side">Judith Loeb</a>
+    </div>
+
+<br><br>
+
+<header>
+     <div id="page">
+
+        <div class="main-nav">
+       <ul>
+         
+          <li><a href="about.html"> ABOUT </a></li> 
+          <li><a href="hello.html"> CONTACT </a></li> 
+
+        </ul>
+
+
+        </div>
